@@ -144,7 +144,7 @@ export default hopeTheme({
     // https://giscus.app/zh-CN
     comment: {
       provider: "Giscus",
-      repo: "Utaoki-henji/doc",//仓库地址
+      repo: "2981764991/doc",//仓库地址
       repoId: "R_kgDOOXGTgw",
       category: "Announcements",
       categoryId: "DIC_kwDOOXGTg84CpEXM",
