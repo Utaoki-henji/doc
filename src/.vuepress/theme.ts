@@ -25,7 +25,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "弘建通（杭州）科技有限公司",
 
       displayFooter: true,
 
@@ -37,22 +37,22 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh/": {
-      // navbar
-      navbar: zhNavbar,
+    // "/zh/": {
+    //   // navbar
+    //   navbar: zhNavbar,
 
-      // sidebar
-      sidebar: zhSidebar,
+    //   // sidebar
+    //   sidebar: zhSidebar,
 
-      footer: "默认页脚",
+    //   footer: "默认页脚",
 
-      displayFooter: true,
+    //   displayFooter: true,
 
-      // page meta
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
-    },
+    //   // page meta
+    //   metaLocales: {
+    //     editLink: "在 GitHub 上编辑此页",
+    //   },
+    // },
   },
 
   encrypt: {
@@ -61,10 +61,10 @@ export default hopeTheme({
         hint: "Password: 1234",
         password: "1234",
       },
-      "/zh/docs/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
+      // "/zh/docs/encrypt.html": {
+      //   hint: "Password: 1234",
+      //   password: "1234",
+      // },
     },
   },
 
