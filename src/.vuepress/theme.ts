@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
     name: "By七月",
@@ -34,25 +34,6 @@ export default hopeTheme({
       },
     },
 
-    /**
-     * Chinese locale config
-     */
-    // "/zh/": {
-    //   // navbar
-    //   navbar: zhNavbar,
-
-    //   // sidebar
-    //   sidebar: zhSidebar,
-
-    //   footer: "默认页脚",
-
-    //   displayFooter: true,
-
-    //   // page meta
-    //   metaLocales: {
-    //     editLink: "在 GitHub 上编辑此页",
-    //   },
-    // },
   },
 
   encrypt: {
@@ -61,10 +42,6 @@ export default hopeTheme({
         hint: "Password: 1234",
         password: "1234",
       },
-      // "/zh/docs/encrypt.html": {
-      //   hint: "Password: 1234",
-      //   password: "1234",
-      // },
     },
   },
 

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Layout
 icon: object-group
 order: 2
@@ -28,4 +28,4 @@ The theme also has the following elements:
 - [Back to top button](https://theme-hope.vuejs.press/guide/interface/others.html#back-to-top-button)
 - [Print button](https://theme-hope.vuejs.press/guide/interface/others.html#print-button)
 
-You can customize them in theme options and page frontmatter.
+You can customize them in theme options and page frontmatter. -->

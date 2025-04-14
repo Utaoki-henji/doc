@@ -11,17 +11,38 @@ tag:
 ## 下载方式
 官方下载方式共有两种，`官网下载`、`应用商店`下载
 
+
 ### 官网下载
 以下为官网地址，点击进入后根据不同的系统选择不同版本进行下载
-- [官网下载（电脑端点击这里）](https://www.hulifeng.cn)
+  ```component VPCard
+  title: 弘建通官网
+  desc: 工程行业全领域技术一战式服务平台
+  logo: https://www.hulifeng.cn/img/hjt.png
+  link: https://www.hulifeng.cn
+  background: rgba(253, 253, 244, 0.7)
+  ```
 
 ### 应用商店下载
 以下为常见手机内置的官方应用商店，应用商店版本为最新版本，`推荐通过应用商店下载`
 
-- [华为应用商店（华为手机点击这里）](https://url.cloud.huawei.com/v6pF2OdoyI)
 
-- [OPPO应用商店（OPPO手机点击这里）](https://url.cloud.huawei.com/v6pF2OdoyI)
+- 
+  ```component VPCard
+  title: 华为应用商店
+  desc: 支持系统版本：EMUI 8 - harmony 4.2 前往 >>
+  logo: https://www.hulifeng.cn/img/huawei.jpeg
+  link: https://url.cloud.huawei.com/v6pF2OdoyI
+  background: rgba(255, 245, 243, 0.81)
+  ```
 
+-
+  ```component VPCard
+  title: OPPO应用商店
+  desc: 支持系统版本：ColorOS 10 - ColorOS 15 前往 >>
+  logo: https://mister-hope.com/logo.svg
+  link: https://url.cloud.huawei.com/v6pF2OdoyI
+  background: rgba(204, 204, 204, 0.54)
+  ```
 - [VIVO应用商店（vivo手机点击这里）](https://url.cloud.huawei.com/v6pF2OdoyI)
 
 - [小米应用商店](https://app.mi.com/details?id=com.hy.hjt) ⚠️<font color="#808080">此地址仅可访问，无法下载，下载按钮会显示维护中(小米官方已关闭电脑端下载APP渠道,所有APP都会显示维护中，需要手动前往应用商店搜索下载)</font>

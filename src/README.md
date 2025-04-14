@@ -99,7 +99,7 @@ highlights:
       - title: 海量技术员为您服务
         icon: code
         details: 公司紧缺相关技术员？来这里下单就对啦！
-        link: https://theme-hope.vuejs.press/guide/markdown/code/fence.html.html
+        link: https://theme-hope.vuejs.press/guide/markdown/code/fence.html
 
       - title: 技术员匹配
         icon: comment-dots

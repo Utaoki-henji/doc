@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Markdown Enhance
 icon: fa6-brands:markdown
 order: 2
@@ -320,4 +320,4 @@ end
 
 <iframe src="https://plugin-md-enhance-demo.vuejs.press/snippet/vue-playground.html" width="100%" height="380"/>
 
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/code/vue-playground.html)
+- [View Detail](https://theme-hope.vuejs.press/guide/markdown/code/vue-playground.html) -->
