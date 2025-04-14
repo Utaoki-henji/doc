@@ -67,9 +67,9 @@ highlights:
 
   - header: 全国首个建筑技术领域平台·连接建设需求与技术实力的桥梁
     description: 
-    image: /assets/image/ui.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
+    image: ./public/images/logo.png
+    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svgs
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svgs
     highlights:
       - title: 上万条招投标数据，一键选择。智能匹配优秀技术员
         icon: circle-half-stroke
@@ -99,7 +99,7 @@ highlights:
       - title: 海量技术员为您服务
         icon: code
         details: 公司紧缺相关技术员？来这里下单就对啦！
-        link: https://theme-hope.vuejs.press/guide/markdown/code/fence.html
+        link: https://theme-hope.vuejs.press/guide/markdown/code/fence.html.html
 
       - title: 技术员匹配
         icon: comment-dots
