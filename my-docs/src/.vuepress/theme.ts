@@ -7,11 +7,11 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "By七月",
+    url: "http://blog.utaoki.online",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://www.hulifeng.cn/img/static/logo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -30,7 +30,7 @@ export default hopeTheme({
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "在 GitHub 上编辑此页",
       },
     },
 
@@ -57,11 +57,11 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": {
+      "/docs/encrypt.html": {
         hint: "Password: 1234",
         password: "1234",
       },
-      "/zh/demo/encrypt.html": {
+      "/zh/docs/encrypt.html": {
         hint: "Password: 1234",
         password: "1234",
       },
@@ -71,6 +71,7 @@ export default hopeTheme({
   // These features are enabled for demo, only preserve features you need here
   markdown: {
     align: true,
+    alert: true,
     attrs: true,
     codeTabs: true,
     component: true,
@@ -139,14 +140,14 @@ export default hopeTheme({
   },
 
   plugins: {
-    // Note: This is for testing ONLY!
-    // You MUST generate and use your own comment service in production.
+    // giscus评论插件
+    // https://giscus.app/zh-CN
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "2981764991/doc",//仓库地址
+      repoId: "R_kgDOOXGTgw",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOOXGTg84CpEXM",
     },
 
     components: {

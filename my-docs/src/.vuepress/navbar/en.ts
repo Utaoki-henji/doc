@@ -3,29 +3,29 @@ import { navbar } from "vuepress-theme-hope";
 export const enNavbar = navbar([
   "/",
   "/portfolio",
-  "/demo/",
+  "/docs/",
   {
-    text: "Guide",
+    text: "常见问题",
     icon: "lightbulb",
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "桌面端",
         icon: "lightbulb",
         prefix: "bar/",
         children: ["baz", { text: "...", icon: "ellipsis", link: "#" }],
       },
       {
-        text: "Foo",
+        text: "手机端",
         icon: "lightbulb",
         prefix: "foo/",
         children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
       },
     ],
   },
-  {
-    text: "V2 Docs",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/",
-  },
+  // {
+  //   text: "V2 Docs",
+  //   icon: "book",
+  //   link: "https://theme-hope.vuejs.press/",
+  // },
 ]);

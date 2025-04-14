@@ -1,16 +1,16 @@
 ---
-title: Guide
+title: 常见问题
 icon: lightbulb
 ---
 
 ## Highlight Features
 
-### Bar
+### 桌面端
 
 - [baz](bar/baz.md)
 - ...
 
-### Foo
+### 手机端
 
 - [ray](foo/ray.md)
 - ...

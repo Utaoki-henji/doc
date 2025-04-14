@@ -5,22 +5,22 @@ export const enSidebar = sidebar({
     "",
     "portfolio",
     {
-      text: "Demo",
+      text: "使用文档",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "docs/",
+      link: "docs/",
       children: "structure",
     },
     {
-      text: "Docs",
+      text: "使用问题",
       icon: "book",
       prefix: "guide/",
       children: "structure",
     },
     {
-      text: "Slides",
+      text: "官网",
       icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
+      link: "https://www.hulifeng.cn",
     },
   ],
 });

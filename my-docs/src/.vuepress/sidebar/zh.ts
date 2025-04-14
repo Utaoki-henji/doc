@@ -7,8 +7,8 @@ export const zhSidebar = sidebar({
     {
       text: "案例",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "docs/",
+      link: "docs/",
       children: "structure",
     },
     {
