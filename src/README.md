@@ -37,7 +37,7 @@ highlights:
   - header: 弘建通
     description: 工程行业全领域技术一战式服务平台
     
-    image: https://www.hulifeng.cn/img/static/logo.png
+    image: https://www.hulifeng.cn/img/static/logo.png.bak
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
