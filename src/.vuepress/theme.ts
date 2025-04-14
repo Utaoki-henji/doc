@@ -128,7 +128,8 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      //勋章，卡片，站点
+      components: ["Badge", "VPCard","SiteInfo","Share"],
     },
 
     icon: {
