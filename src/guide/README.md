@@ -7,10 +7,8 @@ icon: lightbulb
 
 ### 桌面端
 
-- [baz](bar/baz.md)
 - ...
 
 ### 手机端
 
-- [ray](foo/ray.md)
 - ...
