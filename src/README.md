@@ -67,9 +67,9 @@ highlights:
 
   - header: 全国首个建筑技术领域平台·连接建设需求与技术实力的桥梁
     description: 
-    image: ./public/images/logo.png
+    image: https://www.hulifeng.cn/img/static/logo.png
     bgImage: https://www.hulifeng.cn/doc-imgs/3.png
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svgs
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     highlights:
       - title: 上万条招投标数据，一键选择。智能匹配优秀技术员
         icon: circle-half-stroke
@@ -87,7 +87,7 @@ highlights:
         link: https://theme-hope.vuejs.press/guide/interface/others.html
 
   - header: 化繁为简，功能丰富，为技术员和企业带来更多便利
-    image: /assets/image/features.svg
+    image: https://www.hulifeng.cn/doc-imgs/features.svg
     bgImage: https://www.hulifeng.cn/doc-imgs/1.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
@@ -128,7 +128,7 @@ highlights:
 
   - header: 建筑设计行业覆盖最广的接单平台
     description: 没工作？向往自由又害怕没有稳定收入来源？来这里，都不是问题
-    image: /assets/image/blog.svg
+    image: https://www.hulifeng.cn/doc-imgs/blog.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
