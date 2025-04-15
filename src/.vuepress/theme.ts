@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import Navbar from "./navbar/index.js";
+import Sidebar from "./sidebar/index.js";
 
 export default hopeTheme({
   // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
@@ -17,23 +17,17 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
+  navbar: Navbar,
 
-      // sidebar
-      sidebar: enSidebar,
+  // sidebar
+  sidebar: Sidebar,
 
-      footer: "弘建通（杭州）科技有限公司",
+  footer: "弘建通（杭州）科技有限公司",
 
-      displayFooter: true,
+  displayFooter: true,
 
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
-    },
-
+  metaLocales: {
+    editLink: "在 GitHub 上编辑此页",
   },
 
   encrypt: {
@@ -129,7 +123,7 @@ export default hopeTheme({
 
     components: {
       //勋章，卡片，站点
-      components: ["Badge", "VPCard","SiteInfo","Share"],
+      components: ["Badge", "VPCard","SiteInfo","Share","VPBanner"],
     },
 
     icon: {

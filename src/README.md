@@ -4,7 +4,7 @@ icon: house
 title: 首页
 heroImage: https://www.hulifeng.cn/doc-imgs/nothing.png
 bgImage: https://www.hulifeng.cn/doc-imgs/bg_a.png
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImageDark: https://www.hulifeng.cn/doc-imgs/bga_dark.png
 bgImageStyle:
   background-attachment: local
   background-repeat: repeat-x
@@ -90,9 +90,9 @@ highlights:
         link: https://theme-hope.vuejs.press/guide/interface/others.html
 
   - header: 化繁为简，功能丰富，为技术员和企业带来更多便利
-    image: https://www.hulifeng.cn/doc-imgs/features.svg
+    image: https://www.hulifeng.cn/doc-imgs/logo_icon.png
     # bgImage: https://www.hulifeng.cn/doc-imgs/1.png
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    # bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: 搜索招投标项目
         icon: network-wired

@@ -6,10 +6,10 @@ icon: house
 name: 弘建通（杭州）科技有限公司
 # avatar: https://www.hulifeng.cn/img/static/logo.png
 bgImage: https://www.hulifeng.cn/doc-imgs/bg2.png
-head:
-  - sytle:
-    type: text/css
-    content: .vp-portfolio-avatar{width:40vw;}
+# head:
+#   - sytle:
+#     type: text/css
+#     content: .vp-portfolio-avatar{width:40vw;}
 
 titles:
   - 杭州市上城区佰富时代中心1幢1301室
@@ -18,6 +18,9 @@ titles:
 
 footer: false
 ---
+
+## 关于我们
+
 
 <!-- ## Description -->
 
