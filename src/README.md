@@ -2,11 +2,14 @@
 home: true
 icon: house
 title: 首页
-heroImage: https://www.hulifeng.cn/img/static/logo.png
-bgImage: https://www.hulifeng.cn/doc-imgs/1.png
+heroImage: https://www.hulifeng.cn/doc-imgs/nothing.png
+bgImage: https://www.hulifeng.cn/doc-imgs/bg_a.png
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: local
+  background-repeat: repeat-x
+  height: 100%
+  weight: auto
 description: 
 heroText: 弘建通使用说明文档
 tagline: 文档包含功能使用指引，常见问题说明等，与用户端使用相关说明。
@@ -37,8 +40,8 @@ highlights:
   - header: 弘建通
     description: 工程行业全领域技术一战式服务平台
     
-    image: https://www.hulifeng.cn/img/static/logo.png
-    bgImage: https://www.hulifeng.cn/doc-imgs/2.png
+    image: https://www.hulifeng.cn/doc-imgs/logo.png
+    # bgImage: https://www.hulifeng.cn/doc-imgs/2.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
@@ -67,8 +70,8 @@ highlights:
 
   - header: 全国首个建筑技术领域平台·连接建设需求与技术实力的桥梁
     description: 
-    image: https://www.hulifeng.cn/img/static/logo.png
-    bgImage: https://www.hulifeng.cn/doc-imgs/3.png
+    # image: https://www.hulifeng.cn/img/static/logo.png
+    bgImage: https://www.hulifeng.cn/doc-imgs/bg_b.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     highlights:
       - title: 上万条招投标数据，一键选择。智能匹配优秀技术员
@@ -88,7 +91,7 @@ highlights:
 
   - header: 化繁为简，功能丰富，为技术员和企业带来更多便利
     image: https://www.hulifeng.cn/doc-imgs/features.svg
-    bgImage: https://www.hulifeng.cn/doc-imgs/1.png
+    # bgImage: https://www.hulifeng.cn/doc-imgs/1.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: 搜索招投标项目
@@ -128,8 +131,8 @@ highlights:
 
   - header: 建筑设计行业覆盖最广的接单平台
     description: 没工作？向往自由又害怕没有稳定收入来源？来这里，都不是问题
-    image: https://www.hulifeng.cn/doc-imgs/blog.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
+    image: https://www.hulifeng.cn/doc-imgs/nothing.png
+    bgImage: https://www.hulifeng.cn/doc-imgs/bg_c.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
       - title: 多家公司在线发布项目订单。职责明确，一单一结，即时到账
