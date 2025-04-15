@@ -3,7 +3,7 @@ home: true
 icon: house
 title: 首页
 heroImage: https://www.hulifeng.cn/img/static/logo.png
-bgImage: ./public/images/3.png
+bgImage: https://www.hulifeng.cn/doc-imgs/1.png
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: local
@@ -37,8 +37,8 @@ highlights:
   - header: 弘建通
     description: 工程行业全领域技术一战式服务平台
     
-    image: https://www.hulifeng.cn/img/static/logo.png.bak
-    bgImage: ./public/images/2.png
+    image: https://www.hulifeng.cn/img/static/logo.png
+    bgImage: https://www.hulifeng.cn/doc-imgs/2.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
@@ -68,7 +68,7 @@ highlights:
   - header: 全国首个建筑技术领域平台·连接建设需求与技术实力的桥梁
     description: 
     image: ./public/images/logo.png
-    bgImage: ./public/images/1.png
+    bgImage: https://www.hulifeng.cn/doc-imgs/3.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svgs
     highlights:
       - title: 上万条招投标数据，一键选择。智能匹配优秀技术员
@@ -88,7 +88,7 @@ highlights:
 
   - header: 化繁为简，功能丰富，为技术员和企业带来更多便利
     image: /assets/image/features.svg
-    bgImage: ./public/images/1.png
+    bgImage: https://www.hulifeng.cn/doc-imgs/1.png
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: 搜索招投标项目
