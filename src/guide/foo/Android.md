@@ -1,6 +1,6 @@
 ---
 title: 安卓端
-icon: circle-info
+icon: android
 ---
 
 Feature details here.

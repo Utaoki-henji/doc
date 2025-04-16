@@ -1,6 +1,6 @@
 ---
 title: iOS端
-icon: circle-info
+icon: ios
 ---
 
 Feature details here.

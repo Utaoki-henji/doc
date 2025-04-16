@@ -1,14 +1,9 @@
 ---
 title: 常见问题
 icon: lightbulb
+index: false
+category:
+  - 下载安装
 ---
 
-## Highlight Features
-
-### 桌面端
-
-- ...
-
-### 手机端
-
-- ...
+<Catalog />
