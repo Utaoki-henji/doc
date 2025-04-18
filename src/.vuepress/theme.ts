@@ -13,7 +13,6 @@ export default hopeTheme({
 
   logo: "https://www.hulifeng.cn/img/static/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
