@@ -1,4 +1,4 @@
-import{_ as u}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c,d as k,e as i,f as l,a,w as t,n as g,g as f,b as n,r as o,o as b}from"./app-DTF3IYdI.js";const v={};function w(y,e){const h=o("CodeTabs"),p=o("Tabs"),d=o("VPCard"),m=o("Badge");return b(),c("div",null,[k(` ---
+import{_ as u}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c,d as k,e as i,f as l,a,w as t,n as g,g as f,b as n,r as o,o as b}from"./app-SSlllynh.js";const v={};function w(y,e){const h=o("CodeTabs"),p=o("Tabs"),d=o("VPCard"),m=o("Badge");return b(),c("div",null,[k(` ---
 title: Markdown Enhance
 icon: fa6-brands:markdown
 order: 2
