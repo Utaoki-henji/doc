@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as t,d as o,o as n}from"./app-DaFM8NPD.js";const a={};function s(r,m){return n(),t("div",null,[o(` ---
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as t,d as o,o as n}from"./app-D8kSl2Ag.js";const a={};function s(r,m){return n(),t("div",null,[o(` ---
 title: Layout
 icon: object-group
 order: 2
