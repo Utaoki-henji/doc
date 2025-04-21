@@ -20,7 +20,7 @@ actions:
     type: primary
 
   - text: 常见问题
-    link: ./guide/
+    link: ./question/
 
   - text: 下载地址
     link: https://www.hulifeng.cn

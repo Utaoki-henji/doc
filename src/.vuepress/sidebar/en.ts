@@ -14,7 +14,7 @@ export const enSidebar = sidebar({
     {
       text: "使用问题",
       icon: "book",
-      prefix: "guide/",
+      prefix: "question/",
       children: "structure",
     },
     {

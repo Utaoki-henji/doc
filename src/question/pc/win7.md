@@ -1,6 +1,6 @@
 ---
-title: 桌面端
-icon: computer
+title: Win7
+icon: desktop
 ---
 
 ## Introduction

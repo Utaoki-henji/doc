@@ -14,7 +14,7 @@ export default sidebar({
     {
       text: "常见问题",
       icon: "book",
-      prefix: "guide/",
+      prefix: "question/",
       children: "structure",
     },
     {

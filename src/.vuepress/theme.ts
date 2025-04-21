@@ -31,7 +31,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/docs/encrypt.html": {
+      "/docs/im.html": {
         hint: "Password: 1234",
         password: "1234",
       },
@@ -128,6 +128,10 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
+
+    photoSwipe:true,
+
+    
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
