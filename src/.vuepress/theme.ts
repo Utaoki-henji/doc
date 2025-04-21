@@ -7,7 +7,7 @@ export default hopeTheme({
   // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "By七月",
+    name: "Utaoki.julys",
     url: "http://blog.utaoki.online",
   },
 
@@ -31,10 +31,10 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/docs/im.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
+      // "/docs/im.html": {
+      //   hint: "Password: 1234",
+      //   password: "1234",
+      // },
     },
   },
 
@@ -112,13 +112,13 @@ export default hopeTheme({
   plugins: {
     // giscus评论插件
     // https://giscus.app/zh-CN
-    comment: {
-      provider: "Giscus",
-      repo: "2981764991/doc",//仓库地址
-      repoId: "R_kgDOOXGTgw",
-      category: "Announcements",
-      categoryId: "DIC_kwDOOXGTg84CpEXM",
-    },
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "2981764991/doc",//仓库地址
+    //   repoId: "R_kgDOOXGTgw",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOOXGTg84CpEXM",
+    // },
 
     components: {
       //勋章，卡片，站点

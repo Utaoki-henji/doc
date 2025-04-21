@@ -21,6 +21,10 @@ footer: false
 
 ## 关于我们
 
+客服热线： 17366645236 
+客服邮箱： hongzhi_org@163.com
+技术支持： hongjiantong@126.com （bug反馈请使用此邮箱，附带描述，出现场景，bug视频）
+
 
 <!-- ## Description -->
 
