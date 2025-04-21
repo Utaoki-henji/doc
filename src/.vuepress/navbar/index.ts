@@ -7,19 +7,19 @@ export default navbar([
   {
     text: "指南",
     icon: "lightbulb",
-    prefix: "/zh/guide/",
+    prefix: "question/",
     children: [
       {
-        text: "Bar",
+        text: "手机端",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "mobile/",
+        children: [ { text: "安卓端常见问题", icon: "lightbulb", link: "android" },{ text: "ios端常见问题", icon: "lightbulb", link: "ios" }],
       },
       {
-        text: "Foo",
+        text: "桌面端",
         icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "pc/",
+        children: [ { text: "win7常见问题", icon: "lightbulb", link: "win7" },{ text: "win10常见问题", icon: "lightbulb", link: "pc" }],
       },
     ],
   }

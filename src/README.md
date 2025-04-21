@@ -156,7 +156,7 @@ highlights:
         link: https://theme-hope.vuejs.press/guide/blog/timeline.html
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+footer:  MIT Licensed, Copyright © 2019-present Mr.Hope
 ---
 
 页面有错误？ [点击反馈](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=26198573&website=www.oicqzone.com).
