@@ -1,6 +1,5 @@
 ---
-title: 下载弘建通 
-icon: download
+title: 📥下载弘建通 
 order: 1
 category:
   - 下载安装

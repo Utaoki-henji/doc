@@ -18,6 +18,10 @@ export default hopeTheme({
 
   navbar: Navbar,
 
+  contributors:false,
+
+  changelog:true,
+
   // sidebar
   sidebar: Sidebar,
 
@@ -132,7 +136,6 @@ export default hopeTheme({
 
     photoSwipe:true,
 
-    
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {

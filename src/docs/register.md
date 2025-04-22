@@ -1,6 +1,5 @@
 ---
-title: 注册登录
-icon: book
+title: 🔑注册登录
 order: 1
 category:
   - 注册登录

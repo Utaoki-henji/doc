@@ -1,8 +1,7 @@
 ---
 home: true
 portfolio: true
-title: 关于我们
-icon: house
+title: 👑关于我们
 name: 弘建通（杭州）科技有限公司
 # avatar: https://www.hulifeng.cn/img/static/logo.png
 bgImage: https://www.hulifeng.cn/doc-imgs/bg2.png
