@@ -1,5 +1,5 @@
 ---
-title: 💰钱包（我的界面）
+title: 💰钱包【手机端】
 order: 3
 category:
   - 个人中心

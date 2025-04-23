@@ -1,5 +1,5 @@
 ---
-title: 📥下载弘建通 
+title: 📥下载弘建通 【通用】
 order: 1
 category:
   - 下载安装
