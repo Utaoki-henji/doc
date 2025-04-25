@@ -21,6 +21,7 @@ export default hopeTheme({
   contributors:false,
 
   changelog:true,
+  lastUpdated:true,
 
   // sidebar
   sidebar: Sidebar,
@@ -132,9 +133,11 @@ export default hopeTheme({
 
     icon: {
       prefix: "fa6-solid:",
+      assets:"iconify"
     },
 
     photoSwipe:true,
+
 
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
