@@ -27,7 +27,9 @@ tag:
 ![](../public/images/im4.png =262x) ![](../public/images/im5.png =262x)
 
 ### 群聊管理
+消息列表中带<font color="#oo72ec"> ::uil:users-alt::</font> 图标的条目为`群聊`消息，全部群聊的管理入口位于`通讯录`界面`新的朋友`下方。支持修改`头像`，`群聊名称`，`描述`，以及设置`是否允许其他人邀请进群`。修改后需要手动点击`确认修改`保存。
 
+![](../public/images/im6.png =262x) ![](../public/images/im7.png =262x) ![](../public/images/im8.png =262x)
 
 ## 联系人界面<Badge text="新" type="tip" />
 通讯录界面也叫联系人界面，右上角加号可打开二级菜单，包含功能：`添加好友`、`新建群聊`。
