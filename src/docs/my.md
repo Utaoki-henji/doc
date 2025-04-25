@@ -1,7 +1,7 @@
 ---
 title: 个人中心【手机端】
-icon: user
-order: 3
+icon: uil:user
+order: 4
 category:
   - 个人中心
 tag:

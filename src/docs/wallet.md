@@ -1,6 +1,7 @@
 ---
-title: 💰钱包【手机端】
-order: 3
+title: 钱包【手机端】
+icon: uil:wallet
+order: 4
 category:
   - 个人中心
 tag:
