@@ -60,12 +60,12 @@ highlights:
       - title: 聊天
         icon: bell
         details: 保持沟通，提高效率
-        link: https://doc.hulifeng.cn/
+        link: https://doc.hulifeng.cn/docs/im.html
 
       - title: 我的
         icon: table-columns
         details: 功能分类高效便捷
-        link: https://doc.hulifeng.cn/
+        link: https://doc.hulifeng.cn/docs/my.html
 
 
   - header: 全国首个建筑技术领域平台·连接建设需求与技术实力的桥梁
